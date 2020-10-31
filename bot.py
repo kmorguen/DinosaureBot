@@ -15,6 +15,7 @@ def pressSpace():
     print("Jump")
     pyautogui.keyUp('space')
 
+xs
 restarGame()
 time.sleep(1)
 pressSpace()
